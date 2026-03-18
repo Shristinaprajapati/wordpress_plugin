@@ -38,3 +38,4 @@ Custom WordPress plugin with CSV upload and A-Z tabs display
 ## CSV Format
 
 Your CSV must have these headers:
+- Id,entry,lifeStats,sort
